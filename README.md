@@ -5,5 +5,5 @@ A passionate **web** and **mobile development** enthusiast focused on creating d
 
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=fireeemaan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fireeemaan.883304658&left_color=green&right_color=red)
+![visitors](https://komarev.com/ghpvc/?username=fireeemaan&style=flat-square&color=blue)
 
