@@ -1,5 +1,5 @@
 
-![[Typing SVG](https://readme-typing-svg.demolab.com?])
+![Typing SVG](https://readme-typing-svg.demolab.com?])]
 
 # 💫 About Me:
 A passionate web and mobile development enthusiast focused on creating dynamic, user-friendly websites and applications. Skilled in HTML, CSS, JavaScript, and frameworks like React and Vue for web development, as well as React Native, Flutter, and Kotlin for mobile development. I’m always eager to learn new technologies and tools to build innovative, high-quality digital solutions across platforms.
