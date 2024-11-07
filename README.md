@@ -14,5 +14,5 @@ A passionate web and mobile development enthusiast focused on creating dynamic, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fireeemaan&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fireeemaan&icon=6&color=1)](https://visitcount.itsvg.in)
+![visitors](https://komarev.com/ghpvc/?username=fireeemaan&style=flat-square&color=blue)
 
